@@ -41,8 +41,10 @@ export const menuItems = [
 	// 	title: "News",
 	// 	path: "news",
 	// },
-	{title:"Policy",
-	path:"/policy"},
+	{
+		title:"Policy",
+		path:"/policy"
+	},
 	{
 		title: "Contact",
 		path: "contact",
