@@ -1,22 +1,8 @@
 export const menuItems = [
-	// {
-	// 	title: "Demo",
-	// 	path: "#",
-	// 	submenu: [
-	// 		{
-	// 			title: "Home 1",
-	// 			path: "/",
-	// 		},
-	// 		{
-	// 			title: "Home 2",
-	// 			path: "index-two",
-	// 		},
-	// 		{
-	// 			title: "Home 3",
-	// 			path: "index-three",
-	// 		},
-	// 	],
-	// },
+	{
+		title: "Home",
+		path: "/",
+	},
 	{
 		title: "About",
 		path: "about",
