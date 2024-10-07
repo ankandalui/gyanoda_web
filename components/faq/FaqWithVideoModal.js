@@ -21,7 +21,7 @@ export const faqsData = [
     id: 3,
     question: "How current is the exam preparation material?",
     answer:
-      "The exam preparation material is based on WBJEE (West Bengal Joint Entrance Examination) previous years' questions from 2014-2024. It includes solutions, text explanations, videos, and other resources covering these past year questions.",
+      "The exam preparation material is based on WBJEE (West Bengal Joint Entrance Examination) previous years' questions from 2014-2024. It includes solutions, text explanations, videos, and other resources covering these past year questions.",
   },
 ];
 export default function FaqWithVideoModal() {
