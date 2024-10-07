@@ -130,7 +130,7 @@ export default function Navbar() {
                     ))}
                   </ul>
 
-                  <Link href="/contact">
+                  <Link href="https://play.google.com/store/apps/details?id=com.study_bloom.gyanoda">
                     <a className="theme-btn d-block mt-4 text-center ms-0">
                       Download Now
                     </a>
