@@ -1,0 +1,26 @@
+.cookie-consent-container {
+    box-shadow: 0 -4px 6px -1px rgb(0 0 0 / 0.1) !important;
+    animation: slideUp 0.5s ease-out !important;
+  }
+  
+  .cookie-consent-buttons {
+    display: flex !important;
+    gap: 12px !important;
+    margin-left: 24px !important;
+  }
+  
+  @keyframes slideUp {
+    from {
+      transform: translateY(100%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .cookie-consent-buttons {
+      margin-left: 0 !important;
+      margin-top: 16px !important;
+    }
+  }
