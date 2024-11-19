@@ -24,7 +24,7 @@ export default function CallToAction() {
                   <img src="/img/apple.png" alt="" />
                 </a> */}
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.study_bloom.gyanoda"
+                  href="https://play.google.com/store/apps/details?id=com.gyanodapyq.studybloom24"
                   className="app-download-btn wow fadeInUp"
                   data-wow-delay=".8s"
                 >

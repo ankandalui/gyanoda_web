@@ -36,7 +36,7 @@ export default function ContentBlockOne() {
                 exam success with our curated content and expert guidance.
               </p>
               <a
-                href="https://play.google.com/store/apps/details?id=com.study_bloom.gyanoda"
+                href="https://play.google.com/store/apps/details?id=com.gyanodapyq.studybloom24"
                 className="theme-btn mt-30 wow fadeInUp"
                 data-wow-duration="1s"
                 data-wow-delay=".6s"

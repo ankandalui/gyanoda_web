@@ -104,7 +104,7 @@ export default function Navbar() {
             </div>
             <div className="header-right-element text-white">
               {/* <a href="#">login</a> */}
-              <Link href="https://play.google.com/store/apps/details?id=com.study_bloom.gyanoda">
+              <Link href="https://play.google.com/store/apps/details?id=com.gyanodapyq.studybloom24">
                 <a className="theme-btn black">Download Now</a>
               </Link>
             </div>
@@ -130,7 +130,7 @@ export default function Navbar() {
                     ))}
                   </ul>
 
-                  <Link href="/contact">
+                  <Link href="https://play.google.com/store/apps/details?id=com.gyanodapyq.studybloom24">
                     <a className="theme-btn d-block mt-4 text-center ms-0">
                       Download Now
                     </a>
