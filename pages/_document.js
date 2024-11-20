@@ -1,10 +1,12 @@
 import { Head, Html, Main, NextScript } from "next/document";
 const GTM_ID = 'GTM-5P6K7GDM';
+const GA_ID = 'G-VMHLXBPR06';
 export default function Document() {
 	return (
 
 		<Html>
 			<Head>
+				{/* Google AdSense */}
 				<script
 					async
 					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1852241678410881"
@@ -14,6 +16,8 @@ export default function Document() {
 					name="google-adsense-account"
 					content="ca-pub-1852241678410881"
 				/>
+
+				{/* Google Tag Manager */}
 				<script
 					dangerouslySetInnerHTML={{
 						__html: `
@@ -23,6 +27,21 @@ export default function Document() {
                 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
                 })(window,document,'script','dataLayer','${GTM_ID}');
               `,
+					}}
+				/>
+				{/* Google Analytics */}
+				<script
+					async
+					src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+				/>
+				<script
+					dangerouslySetInnerHTML={{
+						__html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${GA_ID}');
+            `,
 					}}
 				/>
 				<link href="/fonts/GeneralSans-Bold.eot" rel="stylesheet" />
