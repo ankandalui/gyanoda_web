@@ -275,7 +275,7 @@ export default function TermsAndConditions() {
             <Section
               title="Refund and Cancellation Policy"
               content={`
-                <p>At Gyanoda, we strive to provide high-quality educational content and services. However, we understand that there may be instances where a refund is warranted.</p>
+                <p>At Gyanoda,(Sandipan Das) we strive to provide high-quality educational content and services. However, we understand that there may be instances where a refund is warranted.</p>
                 <h3 class="text-xl font-semibold mt-4 mb-2">Refund Eligibility:</h3>
                 <p>Refunds may be considered on a case-by-case basis within 7 days of purchase if technical issues prevent access to the content.</p>
                 <h3 class="text-xl font-semibold mt-4 mb-2">Refund Process:</h3>
