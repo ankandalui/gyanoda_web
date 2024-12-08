@@ -287,7 +287,7 @@ export default function TermsAndConditions() {
               `}
             />
         <Section
-              title="Partnership Program Terms and Conditions"
+              title="Partnership Program Terms and Conditions "
               content={`
                 <h3 class="text-xl font-semibold mt-4 mb-2">1. Program Overview</h3>
                 <ul class="list-disc pl-6 mb-4">
@@ -370,7 +370,7 @@ export default function TermsAndConditions() {
             />
 
 
-<Section
+{/* <Section
   title="Who Can Become a Partner?"
   content={`
     <h3 class="text-xl font-semibold mt-4 mb-2">Eligible Partners</h3>
@@ -404,6 +404,125 @@ export default function TermsAndConditions() {
     </ol>
 
     <p class="mt-4"><strong>Note:</strong> Gyanoda reserves the right to approve or reject partner applications based on our evaluation criteria. Approved partners will receive their unique coupon codes within 48 hours of application approval.</p>
+  `}
+/> */}
+
+<Section
+  title="Who Can Become a Partner?"
+  id="eligible-partners"
+  content={`
+    <div class="bg-white rounded-lg shadow-sm p-6 mb-6">
+      <h3 class="text-xl font-semibold mb-4 text-blue-600">Eligible Partners</h3>
+      <ul class="space-y-3 mb-4">
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Education Professionals:</strong> Teachers and educators from any educational institution</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Content Creators:</strong> Educational content developers and course creators</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Consultants:</strong> Educational consultants and career counselors</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Industry Professionals:</strong> Individuals with established networks in the education sector</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Institutions:</strong> Educational institutes, coaching centers, and training academies</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Digital Influencers:</strong> Education-focused bloggers and social media content creators</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Alumni:</strong> Current and former Gyanoda students with a passion for education</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Education Enthusiasts:</strong> Any individual above 18 years committed to promoting quality education</span>
+        </li>
+      </ul>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm p-6 mb-6">
+      <h3 class="text-xl font-semibold mb-4 text-blue-600">Partnership Requirements</h3>
+      <ul class="space-y-3 mb-4">
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Age:</strong> Minimum 18 years</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Banking:</strong> Active Indian bank account</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Documentation:</strong> Valid PAN card and GST registration (if applicable)</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Contact Details:</strong> Valid email and phone number for communication</span>
+        </li>
+        <li class="flex items-start">
+          <span class="text-blue-500 mr-2">•</span>
+          <span><strong>Agreement:</strong> Acceptance of Gyanoda's partnership terms and conditions</span>
+        </li>
+      </ul>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm p-6 mb-6">
+      <h3 class="text-xl font-semibold mb-4 text-blue-600">Partnership Application Process</h3>
+      <div class="space-y-4">
+        <div class="flex items-start">
+          <span class="bg-blue-100 text-blue-600 rounded-full w-6 h-6 flex items-center justify-center mr-3 mt-1 flex-shrink-0">1</span>
+          <div>
+            <strong class="block mb-1">Initial Application</strong>
+            <p>To initiate your partnership application, please send a detailed email to <strong>support@gyanoda.com</strong> with your professional background and interest in the program.</p>
+          </div>
+        </div>
+        
+        <div class="flex items-start">
+          <span class="bg-blue-100 text-blue-600 rounded-full w-6 h-6 flex items-center justify-center mr-3 mt-1 flex-shrink-0">2</span>
+          <div>
+            <strong class="block mb-1">Document Submission</strong>
+            <p>Submit required documentation including ID proof, bank details, and PAN card</p>
+          </div>
+        </div>
+        
+        <div class="flex items-start">
+          <span class="bg-blue-100 text-blue-600 rounded-full w-6 h-6 flex items-center justify-center mr-3 mt-1 flex-shrink-0">3</span>
+          <div>
+            <strong class="block mb-1">Orientation</strong>
+            <p>Complete our partner orientation program to understand the platform and partnership guidelines</p>
+          </div>
+        </div>
+        
+        <div class="flex items-start">
+          <span class="bg-blue-100 text-blue-600 rounded-full w-6 h-6 flex items-center justify-center mr-3 mt-1 flex-shrink-0">4</span>
+          <div>
+            <strong class="block mb-1">Activation</strong>
+            <p>Receive your unique partner coupon code for tracking referrals</p>
+          </div>
+        </div>
+        
+        <div class="flex items-start">
+          <span class="bg-blue-100 text-blue-600 rounded-full w-6 h-6 flex items-center justify-center mr-3 mt-1 flex-shrink-0">5</span>
+          <div>
+            <strong class="block mb-1">Launch</strong>
+            <p>Begin promoting Gyanoda courses and earning commissions</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-blue-50 rounded-lg p-4 border border-blue-100">
+      <p class="text-blue-800"><strong>Important Note:</strong> Gyanoda reviews all partnership applications thoroughly to maintain our quality standards. Approved partners will receive their unique coupon codes within 48 hours of application approval. For any queries about the partnership program, please contact us at <strong>support@gyanoda.com</strong>.</p>
+    </div>
   `}
 />
             <Section
