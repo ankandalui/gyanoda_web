@@ -177,7 +177,7 @@ export default function TermsAndConditions() {
                 <p>The Gyanoda will not call any user and ask for an OTP. Users are advised not to share their personal details with anyone on the platform. That as per the mechanism of software as held by the company the user ID is mapped with the phone number but not the phone. So, if a user loses their phone but still recovers the SIM, they can log in with the same ID. If unable to recover the SIM, the user has to register again.</p>
               `}
             />
-
+          
             <Section
               title="Privacy Policy"
               content={`
@@ -286,7 +286,126 @@ export default function TermsAndConditions() {
                 <p>We do not currently offer cancellations for our services. All purchases are final and non-refundable unless otherwise stated in our refund policy above. Please carefully review the service details before making a purchase.</p>
               `}
             />
+        <Section
+              title="Partnership Program Terms and Conditions"
+              content={`
+                <h3 class="text-xl font-semibold mt-4 mb-2">1. Program Overview</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li> Gyanoda Guru Partner Program Partnership Program  is operated by Gyanoda (STUDYBLOOM 24 LLP) and allows individuals and educators ("Partners") to earn commissions by promoting and selling Company's courses through unique coupon codes.</li>
+                  <li>The Program terms are valid for one (1) year from the date of acceptance but may be modified or terminated by the Company with less than one year's notice as detailed in Section 7.</li>
+                </ul>
 
+                <h3 class="text-xl font-semibold mt-4 mb-2">2. Eligibility and Registration</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>Partners must be at least 18 years of age and capable of entering into legally binding contracts.</li>
+                  <li>Partners must complete the registration process and be approved by the Company.</li>
+                  <li>Partners must provide accurate and current banking information for commission payments.</li>
+                  <li>The Company reserves the right to reject any partnership application without stating reasons.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">3. Commission Structure</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>Partners earn a 15% commission on the final sale price of courses purchased using their unique coupon code.</li>
+                  <li>Commissions are calculated based on the actual purchase price after applying any discounts or promotions.</li>
+                  <li>Partners are not eligible for commissions on their own purchases or purchases made using multiple discount codes.</li>
+                  <li>Commission rates may be modified by the Company with prior notice via email.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">4. Payment Terms</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>Commissions will be processed and paid within three (3) business days of the successful course purchase.</li>
+                  <li>Payments will be made via Razorpay to the Partner's registered bank account.</li>
+                  <li>Partners are responsible for providing correct banking information and maintaining an active Razorpay account.</li>
+                  <li>The Company is not responsible for payment delays due to incorrect banking information or technical issues with Razorpay.</li>
+                  <li>All tax implications and liabilities arising from commission earnings are the sole responsibility of the Partner.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">5. Partner Obligations</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>Partners must accurately represent the Company's courses and pricing.</li>
+                  <li>Partners may not engage in spam, fraudulent activities, or misleading marketing practices.</li>
+                  <li>Partners must disclose their partnership status when promoting courses.</li>
+                  <li>Partners may not modify or alter the coupon codes provided by the Company.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">6. Term and Termination</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>The initial term of this agreement is one (1) year from the date of acceptance.</li>
+                  <li>The Company reserves the right to modify or terminate the Program at any time with written notice.</li>
+                  <li>Partners may terminate their participation in the Program at any time by notifying the Company in writing.</li>
+                  <li>The Company may terminate any Partner's participation immediately for violation of these terms.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">7. Modifications to Terms</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>The Company reserves the right to modify these terms and conditions at any time.</li>
+                  <li>Partners will be notified of any changes via email.</li>
+                  <li>Continued participation in the Program after modification of terms constitutes acceptance of the new terms.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">8. Limitation of Liability</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>The Company is not liable for any losses or damages arising from participation in the Program.</li>
+                  <li>The Company makes no guarantees regarding Partner earnings or course sales.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">9. Confidentiality</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>Partners must maintain the confidentiality of their unique coupon codes and Program details.</li>
+                  <li>Partners may not share or transfer their partnership rights to others.</li>
+                </ul>
+
+                <h3 class="text-xl font-semibold mt-4 mb-2">10. Governing Law</h3>
+                <ul class="list-disc pl-6 mb-4">
+                  <li>These terms are governed by the laws of India.</li>
+                  <li>Any disputes will be subject to the exclusive jurisdiction of courts in West Bengal, India.</li>
+                </ul>
+
+                <p class="mt-4"><strong>For any questions or concerns about the Partnership Program, please contact:</strong><br>
+                Email: support@gyanoda.com<br>
+                Phone: +91 907 396 3347</p>
+
+                <p class="mt-4">By participating in the Program, Partners acknowledge that they have read, understood, and agree to be bound by these terms and conditions.</p>
+              `}
+            />
+
+
+<Section
+  title="Who Can Become a Partner?"
+  content={`
+    <h3 class="text-xl font-semibold mt-4 mb-2">Eligible Partners</h3>
+    <ul class="list-disc pl-6 mb-4">
+      <li>Teachers and educators from any educational institution</li>
+      <li>Educational content creators</li>
+      <li>Educational consultants and counselors</li>
+      <li>Individual professionals with a network in the education sector</li>
+      <li>Educational institutes and coaching centers</li>
+      <li>Education bloggers and social media influencers</li>
+      <li>Current and former Gyanoda students</li>
+      <li>Any individual above 18 years interested in promoting quality education</li>
+    </ul>
+
+    <h3 class="text-xl font-semibold mt-4 mb-2">Requirements for Partners</h3>
+    <ul class="list-disc pl-6 mb-4">
+      <li>Must be at least 18 years of age</li>
+      <li>Must have a valid Indian bank account for receiving payments via Razorpay</li>
+      <li>Must have a valid PAN card and GST registration (if applicable)</li>
+      <li>Must provide accurate contact information including email and phone number</li>
+      <li>Must agree to Gyanoda's terms and conditions</li>
+    </ul>
+
+    <h3 class="text-xl font-semibold mt-4 mb-2">How to Become a Partner</h3>
+    <ol class="list-decimal pl-6 mb-4">
+      <li>Fill out the partner application form on our website</li>
+      <li>Submit necessary documentation (ID proof, bank details, PAN card)</li>
+      <li>Complete the brief partner orientation process</li>
+      <li>Receive your unique coupon code</li>
+      <li>Start promoting Gyanoda courses and earning commissions</li>
+    </ol>
+
+    <p class="mt-4"><strong>Note:</strong> Gyanoda reserves the right to approve or reject partner applications based on our evaluation criteria. Approved partners will receive their unique coupon codes within 48 hours of application approval.</p>
+  `}
+/>
             <Section
               title="Contact Us"
               content={`
