@@ -315,7 +315,7 @@ export default function TermsAndConditions() {
                 <ul class="list-disc pl-6 mb-4">
                   <li>Commissions will be processed and paid within three (3) business days of the successful course purchase.</li>
                   <li>Payments will be made via Razorpay to the Partner's registered bank account.</li>
-                  <li>Partners are responsible for providing correct banking information and maintaining an active Razorpay account.</li>
+                  <li>Partners are responsible for providing correct banking information and maintaining an active account.</li>
                   <li>The Company is not responsible for payment delays due to incorrect banking information or technical issues with Razorpay.</li>
                   <li>All tax implications and liabilities arising from commission earnings are the sole responsibility of the Partner.</li>
                 </ul>
