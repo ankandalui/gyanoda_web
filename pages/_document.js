@@ -52,12 +52,12 @@ export default function Document() {
 				{/* Google AdSense */}
 				<script
 					async
-					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1852241678410881"
+					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7117601803338811"
 					crossOrigin="anonymous"
 				/>
 				<meta
 					name="google-adsense-account"
-					content="ca-pub-1852241678410881"
+					content="ca-pub-7117601803338811"
 				/>
 
 				{/* Google Tag Manager */}
