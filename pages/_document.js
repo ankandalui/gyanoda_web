@@ -106,6 +106,7 @@ export default function Document() {
 				<link href="/fonts/xmoze.eot" rel="stylesheet" />
 				<link href="/fonts/xmoze.woff" rel="stylesheet" />
 				<link href="/fonts/xmoze.woff2" rel="stylesheet" />
+				<meta name="google-adsense-account" content="ca-pub-1852241678410881"></meta>
 			</Head>
 			<body>
 				<noscript>
