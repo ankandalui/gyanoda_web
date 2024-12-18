@@ -151,17 +151,17 @@ export default function Footer() {
               data-wow-delay=".3"
               data-wow-duration="1s"
             >
-              <Link href="#">
+              <Link href="https://www.facebook.com/GyanodaApp/">
                 <a>
                   <FaFacebookF />
                 </a>
               </Link>
-              <Link href="#">
+              <Link href="https://x.com/GyanodaApp">
                 <a>
                   <FaTwitter />
                 </a>
               </Link>
-              <Link href="#">
+              <Link href="https://www.instagram.com/gyanoda.app/">
                 <a>
                   <FaInstagram />
                 </a>
