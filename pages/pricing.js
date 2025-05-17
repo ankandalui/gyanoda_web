@@ -6,7 +6,7 @@ export default function Pricing() {
   return (
     <>
       <Head>
-        <title>Pricing Page</title>
+      <title>Gyanoda™ | Pricing Plans & Packages</title>
       </Head>
       <PageBanner
         title="Pricing"

@@ -16,7 +16,7 @@ export default function TermsAndConditions() {
   return (
     <>
       <Head>
-        <title>Terms and Conditions - Gyanoda</title>
+      <title>Gyanoda™ | Terms and Conditions</title>
       </Head>
 
       <PageBanner

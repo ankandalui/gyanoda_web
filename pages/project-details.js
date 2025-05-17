@@ -7,7 +7,7 @@ export default function ProjectDetails() {
 	return (
 		<>
 			<Head>
-				<title>Project Details Page</title>
+			<title>Gyanoda™ | Project Details</title>
 			</Head>
 			<PageBanner
 				title="Creative Art Work"

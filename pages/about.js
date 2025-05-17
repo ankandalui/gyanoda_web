@@ -11,7 +11,7 @@ export default function about() {
   return (
     <>
       <Head>
-        <title>About Page</title>
+      <title>Gyanoda™ | About - Expert Video Solutions for Competitive Exams</title>
       </Head>
       <PageBanner
         title="About Us"

@@ -149,7 +149,7 @@ export default function TermsAndConditions() {
   return (
     <>
       <Head>
-        <title>Terms and Conditions - Gyanoda</title>
+      <title>Gyanoda™ | Terms and Conditions</title>
       </Head>
 
       <PageBanner
@@ -244,7 +244,7 @@ export default function TermsAndConditions() {
                   <li>Update account information</li>
                 </ul>
                 <h3 class="text-xl font-semibold mt-4 mb-2">Account Deletion:</h3>
-<p>To delete your account, please send an email to support@gyanoda.com. Your account will be deleted within 24 hours of receiving your request.</p>
+<p>To delete your account, please send an email to support@gyanoda.com. Your account will be deleted within 24 hours of receiving your request by GYANODA STUDYBLOOM 24 LLP .</p>
                 <h3 class="text-xl font-semibold mt-4 mb-2">Children's Privacy:</h3>
                 <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. Parental consent is required for processing data of minors where applicable.</p>
                 
@@ -275,7 +275,7 @@ export default function TermsAndConditions() {
             <Section
               title="Refund and Cancellation Policy"
               content={`
-                <p>At Gyanoda,(Sandipan Das) we strive to provide high-quality educational content and services. However, we understand that there may be instances where a refund is warranted.</p>
+                <p>At Gyanoda | STUDYBLOOM 24 LLP  we strive to provide high-quality educational content and services. However, we understand that there may be instances where a refund is warranted.</p>
                 <h3 class="text-xl font-semibold mt-4 mb-2">Refund Eligibility:</h3>
                 <p>Refunds may be considered on a case-by-case basis within 7 days of purchase if technical issues prevent access to the content.</p>
                 <h3 class="text-xl font-semibold mt-4 mb-2">Refund Process:</h3>

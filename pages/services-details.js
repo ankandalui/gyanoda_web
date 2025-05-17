@@ -4,7 +4,7 @@ export default function servicesDetails() {
   return (
     <>
       <Head>
-        <title>Service Details Page</title>
+      <title>Gyanoda™ | Service Information</title>
       </Head>
       <PageBanner
         title="Our Services"

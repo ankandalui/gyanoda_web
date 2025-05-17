@@ -6,7 +6,7 @@ export default function contact() {
 	return (
 		<>
 			<Head>
-				<title>Contact Page</title>
+			<title>Gyanoda™ | Contact Us - Connect With Our Exam Experts</title>
 			</Head>
 			<PageBanner
 				title="Contact Us"

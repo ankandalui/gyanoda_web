@@ -8,7 +8,7 @@ export default function services() {
   return (
     <>
       <Head>
-        <title>Services Page</title>
+      <title>Gyanoda™ | Our Services</title>
       </Head>
       <PageBanner
         title="Our Services"

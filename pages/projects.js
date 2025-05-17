@@ -8,7 +8,7 @@ export default function projects() {
 	return (
 		<>
 			<Head>
-				<title>Projects Page</title>
+			<title>Gyanoda™ | Our Projects</title>
 			</Head>
 			<PageBanner
 				title="Masonry Portfolio"

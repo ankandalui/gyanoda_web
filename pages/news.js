@@ -6,7 +6,7 @@ export default function News() {
 	return (
 		<>
 			<Head>
-				<title>News Page</title>
+			<title>Gyanoda™ | News & Updates</title>
 			</Head>
 			<PageBanner
 				title="Our Blogs"

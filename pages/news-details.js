@@ -6,7 +6,7 @@ export default function newsDetails() {
 	return (
 		<>
 			<Head>
-				<title>News Details</title>
+			<title>Gyanoda™ | Latest Updates & Announcements</title>
 			</Head>
 			<PageBanner
 				title="What Is the crypto volatility index (CVI)?"

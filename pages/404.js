@@ -6,7 +6,7 @@ export default function NotFound() {
 	return (
 		<>
 			<Head>
-				<title>404 Page</title>
+				<title>Gyanoda™ -| 404 Page</title>
 			</Head>
 			<PageBanner
 				title="Oops! error page"

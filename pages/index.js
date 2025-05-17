@@ -13,7 +13,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Gyanoda</title>
+        <title>
+          Unlock WBJEE Exam Success: Gyanoda Offers 10 Years of Solved Papers
+          Across Multiple Subjects
+        </title>
+        <meta
+          name="description"
+          content="Achieve exam success with Gyanoda: 10 years of solved papers, video solutions, mock tests, and doubt sessions for exams like WBJEE."
+        />
+        <link rel="canonical" href="https://www.gyanoda.com/" />
+        <meta name="googlebot" content="index,follow" />
       </Head>
       <Hero />
       <FeaturesOne />

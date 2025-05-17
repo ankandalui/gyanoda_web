@@ -7,7 +7,7 @@ export default function team() {
 	return (
 		<>
 			<Head>
-				<title>Team Page</title>
+			<title>Gyanoda™ | Meet Our Team</title>
 			</Head>
 			<PageBanner
 				title="Our Team"
